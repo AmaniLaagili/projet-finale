@@ -1,0 +1,15 @@
+/* .navbarcolor {
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar {
+    width: 100%;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+} */
+#navuser {
+    margin: "50%";
+    background-color: brown;
+}

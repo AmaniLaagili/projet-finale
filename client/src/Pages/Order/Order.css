@@ -1,0 +1,16 @@
+.tableTop {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 2% auto;
+}
+.cart {
+    margin: 2% auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: blueviolet; violé*/
+}
+.commande {
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+.lunettevue {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px;
+}
+
+.lunettevue > * {
+    margin: 10px;
+}
+.homeScreen {
+    max-width: 1300px;
+    margin: 1rem auto;
+}

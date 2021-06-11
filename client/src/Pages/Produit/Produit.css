@@ -1,0 +1,43 @@
+.produit {
+    width: 300px;
+    padding: 1rem;
+    background: #fff;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+    margin: 8px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.produit > img {
+    height: 178px;
+    border-radius: 8px;
+}
+.produit_info > p {
+    margin-bottom: 8px;
+}
+.info_price {
+    font-weight: bold;
+}
+.info_name {
+    font-size: 1rem;
+    overflow: hidden;
+}
+.info_description {
+    font-size: 0.8rem;
+}
+.info_button {
+    display: block;
+    width: 100px;
+    text-decoration: none;
+    text-align: center;
+    color: #171717;
+    background: #f4f4f4;
+    padding: 8px 16px;
+    border: 1px solid #171717;
+    font-size: 1rem;
+}
+.info_button:hover {
+    background: #171717;
+    color: #fafafa;
+}

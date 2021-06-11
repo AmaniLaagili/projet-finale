@@ -1,0 +1,14 @@
+.lentille {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px;
+}
+
+.lentille > * {
+    margin: 10px;
+}
+.homeScreen {
+    max-width: 1300px;
+    margin: 1rem auto;
+}
